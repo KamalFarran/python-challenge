@@ -1,4 +1,0 @@
-Built the git repository.
-Added python files to both folders
-
-Adding some stuff to test branch.
