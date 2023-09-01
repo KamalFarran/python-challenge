@@ -1,0 +1,2 @@
+Built the git repository.
+Added python files to both folders
