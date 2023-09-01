@@ -1,7 +1,6 @@
 # python-challenge
 
 Pybank:<br>
-<br>
 Code: https://github.com/KamalFarran/python-challenge/blob/main/PyBank/main.py<br>
 Source file: https://github.com/KamalFarran/python-challenge/blob/main/PyBank/Resources/budget_data.csv<br>
 Output: https://github.com/KamalFarran/python-challenge/blob/main/PyBank/analysis/results.txt<br>
